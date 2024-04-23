@@ -1,0 +1,17 @@
+---
+title: "Olaoluwa Oluwaseun Gbotoso"
+image: my_picture.JPG
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/gbotosoolaoluwa/
+    - icon: github
+      text: Github
+      href: https://github.com/gbotosh
+
+---
+About Me
+
+As a PMP Project Manager at Hancock Ogundiya & Partners, I bring over a decade of experience in managing and executing complex civil and environmental engineering projects. With a Master's degree in Construction Management from the University of Lagos, coupled with extensive certifications in project management and data analysis, I am dedicated to driving successful project outcomes through a data-driven approach.

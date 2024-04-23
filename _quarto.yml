@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Olaoluwa Oluwaseun Gbotoso"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/gbotosoolaoluwa/
+      - icon: github
+        href: https://github.com/gbotosh
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
