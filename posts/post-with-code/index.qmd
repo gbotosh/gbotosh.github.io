@@ -1,13 +1,11 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Analysis of Global CO2 Emissions"
+author: "Olaoluwa Oluwaseun Gbotoso"
 date: "2024-04-23"
-categories: [news, code, analysis]
+categories: [code, analysis, R]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This project was conducted utilizing the GAPMINDER dataset. The complete project details are available [here](https://gbotosh.github.io/co2_emission_dashboard_project/){target="_blank"}. The code for the project can be found in the [GitHub repository](https://github.com/gbotosh/co2_emission_dashboard_project).
 
-```{r}
-1 + 1
-```
+

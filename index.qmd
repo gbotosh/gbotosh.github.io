@@ -10,8 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/gbotosh
-
 ---
+
 About Me
 
-As a PMP Project Manager at Hancock Ogundiya & Partners, I bring over a decade of experience in managing and executing complex civil and environmental engineering projects. With a Master's degree in Construction Management from the University of Lagos, coupled with extensive certifications in project management and data analysis, I am dedicated to driving successful project outcomes through a data-driven approach.
+As a Project Manager and Data Analyst with over a decade of experience in civil and environmental engineering, I bring technical expertise and a data-driven approach to project management. Holding advanced degrees in Construction Management and Civil Engineering, along with certifications like PMP and Microsoft Certified: Power BI Data Analyst Associate, I excel in using tools such as Excel, SQL, R, Python, and Power BI to drive successful project outcomes. My career highlights include leading projects to on-time and within-budget delivery, developing comprehensive plans, performing risk assessments, and implementing quality control measures.
