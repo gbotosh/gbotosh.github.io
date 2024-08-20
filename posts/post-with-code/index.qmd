@@ -7,5 +7,3 @@ image: "image.jpg"
 ---
 
 This project was conducted utilizing the GAPMINDER dataset. The complete project details are available [here](https://gbotosh.github.io/co2_emission_dashboard_project/){target="_blank"}. The code for the project can be found in the [GitHub repository](https://github.com/gbotosh/co2_emission_dashboard_project).
-
-
