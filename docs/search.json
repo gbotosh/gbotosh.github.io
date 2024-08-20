@@ -11,7 +11,7 @@
     "href": "portfolio.html",
     "title": "My Portfolio",
     "section": "",
-    "text": "Analysis of Global CO2 Emissions\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nOlaoluwa Oluwaseun Gbotoso\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 20, 2024\n\n\nOlaoluwa Gbotoso\n\n\n\n\n\n\nNo matching items"
+    "text": "SUMMER OLYMPICS DASHBOARD\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 20, 2024\n\n\nOlaoluwa Gbotoso\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Global CO2 Emissions\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nOlaoluwa Oluwaseun Gbotoso\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 20, 2024\n\n\nOlaoluwa Gbotoso\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -39,7 +39,7 @@
     "href": "index_old.html",
     "title": "my_website",
     "section": "",
-    "text": "Analysis of Global CO2 Emissions\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nOlaoluwa Oluwaseun Gbotoso\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 20, 2024\n\n\nOlaoluwa Gbotoso\n\n\n\n\n\n\nNo matching items"
+    "text": "SUMMER OLYMPICS DASHBOARD\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 20, 2024\n\n\nOlaoluwa Gbotoso\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Global CO2 Emissions\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nOlaoluwa Oluwaseun Gbotoso\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 20, 2024\n\n\nOlaoluwa Gbotoso\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -47,5 +47,12 @@
     "title": "Analysis of Global CO2 Emissions",
     "section": "",
     "text": "This project was conducted utilizing the GAPMINDER dataset. The complete project details are available here. The code for the project can be found in the GitHub repository."
+  },
+  {
+    "objectID": "posts/summer_olympics/index.html",
+    "href": "posts/summer_olympics/index.html",
+    "title": "SUMMER OLYMPICS DASHBOARD",
+    "section": "",
+    "text": "Welcome to the Summer Olympics Dashboard, this project used the Olympics dataset from the RGriffin Kaggle dataset (1896-2016) featured in TidyTuesday Week 32 of 2024, this project visualizes medal counts, athlete performance, and demographic trends. Built with R, it highlights increasing gender parity, top athlete achievements, and the growing impact of women on the US Gold medal count. You can find the project here. The code for the project can be found in this GitHub repository"
   }
 ]
